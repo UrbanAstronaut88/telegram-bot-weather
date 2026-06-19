@@ -5,7 +5,7 @@ from aiogram.types import (
     KeyboardButton,
 )
 
-POPULAR_CITIES = ["Москва", "Санкт-Петербург", "Новосибирск", "Минск", "Алматы", "Киев"]
+POPULAR_CITIES = ["Киев", "Одесса", "Харьков", "Днепр", "Львов"]
 
 
 def cities_keyboard() -> InlineKeyboardMarkup:

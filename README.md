@@ -17,7 +17,7 @@ pip install -r requirements.txt
 2. Получите бесплатный API-ключ на [openweathermap.org](https://openweathermap.org/api)
    (раздел Current Weather Data). Ключ активируется обычно в течение 10–120 минут
    после регистрации.
-3. Скопируйте .env.example в .env и впишите туда оба значения:
+3. Скопируйте .env.example в .env и введите ключи:
 ###### BOT_TOKEN=*******************************
 ###### OWM_API_KEY=******************************
 
